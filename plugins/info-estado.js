@@ -22,11 +22,12 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = 'The Mystic Bot';
+  const wm = '𝐍𝐢𝐤𝐤𝐢𝐭𝐚𝐁𝐨𝐭';
   const info = ` _*< INFO - ESTADO />*_
 
  ▢ *Prop.:* 𝐏𝐫𝐨𝐩𝐢𝐞𝐝𝐚𝐝 𝐝𝐞 𝐍𝐢𝐤𝐤𝐢 💞
- ▢ *WA:* +51992621691
+ ▢ *WA:* +56956938598
+ ▢ *Yapee:* +57984357959
 
  ▢ *Ping:* ${rtime}
  ▢ *Uptime:* ${uptime}
